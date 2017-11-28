@@ -1,0 +1,12 @@
+ahoj ferko toto je skuska branch
+<<<<<<< HEAD
+dffsfs
+gfdgfdgfdgfd
+gfdgfdgfdgfdggfdgfd
+gfdgfdgfdgfdgfdgfd
+gfdgfdgfdfgfd
+gfdgfdgfdgfd
+ahoj toto je master, jifjfods
+master toto je skuak
+master baby toto sje skuska
+>>>>>>> skuska
